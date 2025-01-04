@@ -1,6 +1,6 @@
 This project utilizes a databse(script included) named "dbFlyMe2theMoon". 
 
-Displaying a menu, you have 4 options: 
+The solution will begin by displaying a menu, prompting you with 4 options: 
 
 1 - Customer
 
